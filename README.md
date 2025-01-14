@@ -15,9 +15,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-railton/)
 
 ### Github Statistics
-![Github stats](https://github-readme-stats.vercel.app/api?username=james-railton&show_icons=true&count_private=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=jamesrailton&show_icons=true&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-railton)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrailton)
 
-![Profile views](https://komarev.com/ghpvc/?username=james-railton&&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=jamesrailton&&style=flat-square)
 </div>

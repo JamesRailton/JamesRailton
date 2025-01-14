@@ -12,7 +12,7 @@
 ---
 
 ### Connect With Me
-[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-railton/)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JamesRailton/)
 
 ### Github Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jamesrailton&show_icons=true&count_private=true&hide_border=true)

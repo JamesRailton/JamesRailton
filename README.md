@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JamesRailton/JamesRailton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto&size=35&duration=800&color=2CF700&center=true&vCenter=true&background=0D1116FF&multiline=true&repeat=false&random=false&width=550&height=180&lines=Hello;My+name+is+James+Railton;and;welcome+to+my+GitHub!!!)](https://git.io/typing-svg)
+---
 
-Here are some ideas to get you started:
+### What am I currently working on?
+📖 Java, JavaScript & AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What is my future goal?
+🏁 My goal is to have a successful career as a full stack software engineer.
+
+---
+
+### Connect With Me
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-railton/)
+
+### Github Statistics
+![Github stats](https://github-readme-stats.vercel.app/api?username=james-railton&show_icons=true&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-railton)
+
+![Profile views](https://komarev.com/ghpvc/?username=james-railton&&style=flat-square)
+</div>

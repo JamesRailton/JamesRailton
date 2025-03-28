@@ -15,6 +15,7 @@ Java, JavaScript & AWS
 ![Java](https://img.shields.io/badge/Java-E02027?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon+Web+Services&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ+IDEA&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=&logoColor=FFFFFF)
 
 ---

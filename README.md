@@ -6,7 +6,7 @@
 
 ### 🧑 About Me 🧑
 
-Hello! I'm James Railton, a Full Stack Software Engineer based in the UK. Since September 2024, I've been applying my skills and contributing to projects as a fullstack software engineer at CGI UK. I possess a passion for software development and the wider world of technology, constantly seeking to learn things and improve my current skillset. On my GitHub you will find a mix of different personal projects I have done in my free time and while learning new coding languages, please feel free to look around.
+Hello! I'm James Railton, a Software Engineer based in the UK. Since September 2024, I've been applying my skills and contributing to projects as a fullstack software engineer at CGI UK. I possess a passion for software development and the wider world of technology, constantly seeking to learn things and improve my current skillset. On my GitHub you will find a mix of different personal projects I have done in my free time and while learning new coding languages, please feel free to look around.
 
 ---
 

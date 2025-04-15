@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&duration=800&color=00A86B&center=true&multiline=true&repeat=false&width=500&height=200&lines=Hello;My+name+is+James+Railton;And;Welcome+to+my+GitHub!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&duration=700&color=00A86B&center=true&multiline=true&repeat=false&width=500&height=200&lines=Hello;My+name+is+James+Railton;And;Welcome+to+my+GitHub!!!)](https://git.io/typing-svg)
 
 ---
 
@@ -12,7 +12,7 @@ Hello! I'm James Railton, a Software Engineer based in the UK. Since September 2
 
 ### 📖 What am I currently working on? 📖
 
-Java, JavaScript & AWS
+Learning Java, JavaScript & AWS
 
 ---
 
